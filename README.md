@@ -62,12 +62,12 @@ Chat: Start chatting with other users in real-time.
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.
+## Fork the repository.
 Create a new branch: git checkout -b feature-name.
 Make your changes and commit them: git commit -m 'Add some feature'.
 Push to the branch: git push origin feature-name.
 Create a pull request.
 
-Acknowledgements
+## Acknowledgements
 Flutter for the UI framework.
 Firebase for backend services.
